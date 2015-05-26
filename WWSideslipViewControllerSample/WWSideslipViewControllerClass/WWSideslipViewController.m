@@ -185,6 +185,8 @@
 }
 //显示左视图
 -(void)showLeftView{
+        [self addTapReturnToMainView];
+    
     [UIView beginAnimations:nil context:nil];
     mainControl.view.transform = CGAffineTransformScale(CGAffineTransformIdentity,0.8,0.8);
     mainControl.view.center = CGPointMake(340,[UIScreen mainScreen].bounds.size.height/2);
@@ -194,6 +196,8 @@
 
 //显示右视图
 -(void)showRighView{
+    [self addTapReturnToMainView];
+    
     [UIView beginAnimations:nil context:nil];
     mainControl.view.transform = CGAffineTransformScale(CGAffineTransformIdentity,0.8,0.8);
     mainControl.view.center = CGPointMake(-60,[UIScreen mainScreen].bounds.size.height/2);
