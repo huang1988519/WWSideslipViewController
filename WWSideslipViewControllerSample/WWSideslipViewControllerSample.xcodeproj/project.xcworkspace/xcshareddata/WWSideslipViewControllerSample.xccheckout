@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>01684143-C5F6-4E4A-97DD-8B080D4D2568</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WWSideslipViewControllerSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1A624BBD683FDE2AB74F62D1DD77E121278B68AF</key>
+		<string>https://git.oschina.net/PipaBoy/The12Person.git</string>
+		<key>EA28DA4435C7E993E16F9E971A3D8285E48A5D51</key>
+		<string>https://github.com/huang1988519/WWSideslipViewController.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WWSideslipViewControllerSample/WWSideslipViewControllerSample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1A624BBD683FDE2AB74F62D1DD77E121278B68AF</key>
+		<string>../../../../..</string>
+		<key>EA28DA4435C7E993E16F9E971A3D8285E48A5D51</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/huang1988519/WWSideslipViewController.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EA28DA4435C7E993E16F9E971A3D8285E48A5D51</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1A624BBD683FDE2AB74F62D1DD77E121278B68AF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>..</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EA28DA4435C7E993E16F9E971A3D8285E48A5D51</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WWSideslipViewController</string>
+		</dict>
+	</array>
+</dict>
+</plist>

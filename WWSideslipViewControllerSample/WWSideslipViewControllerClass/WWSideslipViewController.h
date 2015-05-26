@@ -25,7 +25,11 @@
 
 //是否允许点击视图恢复视图位置。默认为yes
 @property (strong) UITapGestureRecognizer *sideslipTapGes;
+//是否允许滑动视图控制菜单的打开和关闭。默认为yes
+@property (strong) UIPanGestureRecognizer * panGesture;
 
+//打开主视图后回掉
+@property (copy, nonatomic) void (^mainViewDidShow)(id sender);
 //初始化
 -(instancetype)initWithLeftView:(UIViewController *)LeftView
                     andMainView:(UIViewController *)MainView
